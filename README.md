@@ -36,13 +36,13 @@
 
 ### 🚀 Проекты и опыт
 
-#### **Task Management API**
+#### [Task Management API](https://github.com/loks1k192/task_manager)
 * Разработал RESTful API для системы управления задачами с многопользовательским доступом.
 * Реализовал безопасную авторизацию через JWT-токены и деплой через Docker Compose.
 * **Стек:** FastAPI, PostgreSQL, SQLAlchemy, JWT, Docker.
 * **Репозиторий:** [github.com/loks1k192/task_manager](https://github.com/loks1k192/task_manager)
 
-#### **Async Notification Service**
+#### [Async Notification Service](https://github.com/loks1k192/notification_service)
 * Создал сервис для асинхронной обработки уведомлений с использованием RabbitMQ.
 * Оптимизировал производительность за счет кеширования статусов задач в Redis.
 * **Стек:** Python, FastAPI, RabbitMQ, Redis.
