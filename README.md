@@ -48,11 +48,11 @@
 * **Стек:** Python, FastAPI, RabbitMQ, Redis.
 * **Репозиторий:** [github.com/loks1k192/notification_service](https://github.com/loks1k192/notification_service)
 
-#### [Distributed Event-Driven Analytics Engine](https://github.com/loks1k192/analytics_engine)
+#### [Distributed Event-Driven Analytics Engine](https://github.com/loks1k192/Distributed-Event-Driven-Analytics-Engine)
 * **Суть:** Система сбора и обработки метрик в реальном времени (Ingestor -> Kafka -> Workers -> ClickHouse).
 * **Стек:** Python, FastAPI, Kafka, ClickHouse, Redis.
 * **Результат:** Обработка высоконагруженных потоков данных с мониторингом в Grafana.
-* **Репозиторий:** [github.com/loks1k192/notification_service](https://github.com/loks1k192/...)
+* **Репозиторий:** [github.com/loks1k192/notification_service](https://github.com/loks1k192/Distributed-Event-Driven-Analytics-Engine)
 
 ---
 
