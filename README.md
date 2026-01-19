@@ -11,7 +11,7 @@
 **Языки программирования**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 **Backend & API**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
@@ -20,6 +20,7 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 **Базы данных & Брокеры**
+![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -47,9 +48,11 @@
 * **Стек:** Python, FastAPI, RabbitMQ, Redis.
 * **Репозиторий:** [github.com/loks1k192/notification_service](https://github.com/loks1k192/notification_service)
 
-#### **Система управления фигурами (C++)**
-* Реализовал шаблонный контейнер с использованием умных указателей для безопасного управления памятью.
-* Внедрил C++20 Concepts для валидации типов на этапе компиляции.
+#### [Distributed Event-Driven Analytics Engine](https://github.com/loks1k192/analytics_engine)
+* **Суть:** Система сбора и обработки метрик в реальном времени (Ingestor -> Kafka -> Workers -> ClickHouse).
+* **Стек:** Python, FastAPI, Kafka, ClickHouse, Redis.
+* **Результат:** Обработка высоконагруженных потоков данных с мониторингом в Grafana.
+* **Репозиторий:** [github.com/loks1k192/notification_service](https://github.com/loks1k192/...)
 
 ---
 
