@@ -37,6 +37,11 @@
 
 ### 🚀 Проекты и опыт
 
+#### [Production-ready Go Backend API](https://github.com/loks1k192/production-ready-backend--API)
+* Создал production-ready REST API на Go с JWT-аутентификацией, метриками Prometheus и health checks.
+* Реализовал чистую архитектуру (handlers/services/repository), Postgres (sqlx), Docker/K8s и CI.
+* **Стек:** Go, PostgreSQL, SQLx, JWT, Prometheus, Docker, GitHub Actions.
+
 #### [Task Management API](https://github.com/loks1k192/task_manager)
 * Разработал RESTful API для системы управления задачами с многопользовательским доступом.
 * Реализовал безопасную авторизацию через JWT-токены и деплой через Docker Compose.
