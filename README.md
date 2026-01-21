@@ -39,58 +39,43 @@
 
 ### 🔹 [Production-ready Go Backend API](https://github.com/loks1k192/production-ready-backend--API)
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=flat-square&logo=githubactions)
 
 * Создал production-ready REST API на Go с JWT-аутентификацией, метриками Prometheus и health checks  
 * Реализовал чистую архитектуру (handlers / services / repository)  
-* Подключил PostgreSQL (sqlx), Docker, CI/CD и базовую инфраструктуру  
+* Подключил PostgreSQL (sqlx), Docker, CI/CD и базовую инфраструктуру
+* **Стек:** Go, PostgreSQL, SQLx, JWT, Prometheus, Docker, GitHub Actions.  
 
 ---
 
 ### 🔹 [Task Management API](https://github.com/loks1k192/task_manager)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-323232?style=flat-square)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
+
 
 * REST API для системы управления задачами  
 * Реализована JWT-аутентификация и ролевая модель  
-* Деплой через Docker Compose  
+* Деплой через Docker Compose
+* **Стек:** FastAPI, PostgreSQL, SQLAlchemy, JWT, Docker.
 
 ---
 
 ### 🔹 [Async Notification Service](https://github.com/loks1k192/notification_service)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
 
 * Асинхронный сервис обработки уведомлений  
 * Очереди RabbitMQ для масштабируемой обработки задач  
-* Redis для кеширования статусов и оптимизации производительности  
+* Redis для кеширования статусов и оптимизации производительности
+* **Стек:** Python, FastAPI, RabbitMQ, Redis.
 
 ---
 
 ### 🔹 [Distributed Event-Driven Analytics Engine](https://github.com/loks1k192/Distributed-Event-Driven-Analytics-Engine)
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=flat-square&logo=redis)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana)
 
 * Event-driven система аналитики в реальном времени  
 * Поток: Ingestor → Kafka → Workers → ClickHouse  
-* Мониторинг и визуализация метрик в Grafana  
+* Мониторинг и визуализация метрик в Grafana
+* **Стек:** Python, FastAPI, Kafka, ClickHouse, Redis.
+* **Результат:** Обработка высоконагруженных потоков данных с мониторингом в Grafana.
 
 ---
 
