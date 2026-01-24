@@ -8,31 +8,33 @@
 
 ## 🛠 Мой стек технологий
 
-### Языки программирования
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+💻 Языки программирования
+Python (FastAPI, Django, Asyncio)
 
-### Backend & API
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-e92063?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
+Go (Standard Library, Gin, Chi, Sqlx)
 
-### Базы данных & Брокеры
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+C++ (Алгоритмы и структуры данных)
 
-### DevOps & Инструменты
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana)
+⚙️ Backend & API
+Frameworks: FastAPI, Django
 
+Auth & Data: JWT (JSON Web Tokens), Pydantic, SQLAlchemy, Alembic
+
+Architecture: REST API, Clean Architecture, Event-Driven Design
+
+🗄 Базы данных & Брокеры
+SQL: PostgreSQL, ClickHouse
+
+NoSQL: Redis, MongoDB
+
+Message Brokers: RabbitMQ, Apache Kafka
+
+🏗 DevOps & Мониторинг
+Infrastructure: Docker, Docker Compose, Linux (Bash)
+
+CI/CD: GitHub Actions
+
+Observability: Prometheus, Grafana
 ---
 
 ## 🚀 Проекты и опыт
