@@ -6,35 +6,42 @@
 
 ---
 
-## 🛠 Мой стек технологий
+Вот готовый код для твоего README.md. Я структурировал его так, чтобы он выглядел профессионально и чисто без использования тяжелых внешних картинок-бейджей.
 
-💻 Языки программирования
-Python (FastAPI, Django, Asyncio)
+Просто скопируй содержимое блока ниже:
 
-Go (Standard Library, Gin, Chi, Sqlx)
+Markdown
 
-C++ (Алгоритмы и структуры данных)
+# Привет, я Николай! 👋
 
-⚙️ Backend & API
-Frameworks: FastAPI, Django
+**Backend Developer** 📍 Москва  
 
-Auth & Data: JWT (JSON Web Tokens), Pydantic, SQLAlchemy, Alembic
+Студент 2-го курса бакалавриата МАИ (ПМИ). Специализируюсь на Backend-разработке. Обладаю опытом работы с асинхронным программированием, проектированием API и инструментами DevOps.
 
-Architecture: REST API, Clean Architecture, Event-Driven Design
+---
 
-🗄 Базы данных & Брокеры
-SQL: PostgreSQL, ClickHouse
+## 🛠 Технологический стек
 
-NoSQL: Redis, MongoDB
+### 💻 Языки программирования
+* **Python** — FastAPI, Django, Asyncio, Pytest
+* **Go** — Standard Library, Gin, Chi, Sqlx
+* **C++** — Алгоритмы и структуры данных
 
-Message Brokers: RabbitMQ, Apache Kafka
+### ⚙️ Backend & API
+* **Frameworks:** FastAPI, Django
+* **Tools:** Pydantic, SQLAlchemy, Alembic, JWT
+* **Architecture:** REST API, Clean Architecture, Event-Driven
 
-🏗 DevOps & Мониторинг
-Infrastructure: Docker, Docker Compose, Linux (Bash)
+### 🗄 Базы данных & Брокеры
+* **SQL:** PostgreSQL, ClickHouse
+* **NoSQL:** Redis, MongoDB
+* **Message Brokers:** RabbitMQ, Apache Kafka
 
-CI/CD: GitHub Actions
-
-Observability: Prometheus, Grafana
+### 🏗 DevOps & Мониторинг
+* **Containerization:** Docker, Docker Compose
+* **CI/CD:** GitHub Actions
+* **Monitoring:** Prometheus, Grafana
+* **OS:** Linux (Ubuntu/Debian), Bash
 ---
 
 ## 🚀 Проекты и опыт
