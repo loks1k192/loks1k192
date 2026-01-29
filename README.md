@@ -87,3 +87,7 @@
 * **Telegram:** [@nknyazkov16](https://t.me/nknyazkov16)  
 * **Email:** n.knyazkov16@gmail.com  
 * **English:** B2 — свободное чтение технической документации  
+
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=loks1k192&theme=default&show_icons=true&hide_border=true&layout=compact)
