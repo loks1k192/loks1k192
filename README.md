@@ -97,4 +97,3 @@
 
 * **Telegram:** [@nknyazkov16](https://t.me/nknyazkov16)  
 * **Email:** n.knyazkov16@gmail.com  
-* **English:** B2 — свободное чтение технической документации  
