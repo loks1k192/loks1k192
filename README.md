@@ -9,23 +9,23 @@
 ## 🛠 Стек технологий
 
 ### 💻 Языки программирования
-* **Python** — FastAPI, Django, Asyncio, Pytest
-* **Go** — Standard Library, Gin, Chi, Sqlx
+* **Python** — FastAPI, Django, Asyncio, Pytest, Pydantic v2, Playwright, HTTPX
+* **Go** — Standard Library, Gin, Chi, Sqlx, slog, zap
 * **C/C++** — Алгоритмы и структуры данных
 
 ### ⚙️ Backend & API
 * **Frameworks:** FastAPI, Django
-* **Tools:** Pydantic, SQLAlchemy, Alembic, JWT
+* **Tools:** Pydantic, SQLAlchemy, Alembic, JWT, (Swagger/ReDoc), structlog, Tenacity
 * **Architecture:** REST API, Clean Architecture, Event-Driven
 
 ### 🗄 Базы данных & Брокеры
-* **SQL:** PostgreSQL, ClickHouse
+* **SQL:** PostgreSQL, ClickHouse, asyncpg (raw SQL)
 * **NoSQL:** Redis, MongoDB
-* **Message Brokers:** RabbitMQ, Apache Kafka
+* **Message Brokers:** RabbitMQ, Apache Kafka (aiokafka)
 
 ### 🏗 DevOps & Мониторинг
-* **Containerization:** Docker, Docker Compose
-* **CI/CD:** GitHub Actions
+* **Containerization:** Docker, Docker Compose, Kubernetes, Kustomize
+* **CI/CD:** GitHub Actions, Makefile, golangci-lint, Trivy, kind
 * **Monitoring:** Prometheus, Grafana
 * **OS:** Linux (Ubuntu/Debian), Bash
 ---
