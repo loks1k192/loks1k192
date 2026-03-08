@@ -12,27 +12,24 @@
 ## 🛠 Стек технологий
 
 ### 💻 Языки программирования
-
-* **Python** — FastAPI, Django, Asyncio, Pytest, Pydantic v2, Playwright, HTTPX
-* **Go** — Standard Library, Gin, Chi, Sqlx, slog, zap
-* **C/C++** — Алгоритмы и структуры данных
+* **Go** — Standard Library, Gin, Chi, Sqlx, slog, zap, Concurrency, Performance optimization
+* **Python** — FastAPI, Django, Asyncio, Pytest, Pydantic v2, Playwright, HTTPX, Tenacity
+* **C/C++** — C++20, Алгоритмы и структуры данных, системное программирование
 
 ### ⚙️ Backend & API
-
-* **Frameworks:** FastAPI, Django
-* **Tools:** Pydantic, SQLAlchemy, Alembic, JWT, (Swagger/ReDoc), structlog, Tenacity
-* **Architecture:** REST API, Clean Architecture, Event-Driven
+* **Frameworks:** FastAPI, Django, Gin
+* **Tools:** Pydantic v2, SQLAlchemy, Alembic, JWT, (Swagger/ReDoc), structlog
+* **Architecture:** Clean Architecture, Event-Driven, Microservices, Mesh Networking
+* **AI & Automation:** LLM integration (OpenRouter), Browser Automation (Playwright), Autonomous Agents
 
 ### 🗄 Базы данных & Брокеры
-
-* **SQL:** PostgreSQL, ClickHouse, asyncpg (raw SQL)
+* **SQL:** PostgreSQL, ClickHouse, SQLite (asyncpg, sqlx)
 * **NoSQL:** Redis, MongoDB
 * **Message Brokers:** RabbitMQ, Apache Kafka (aiokafka)
 
 ### 🏗 DevOps & Мониторинг
-
 * **Containerization:** Docker, Docker Compose, Kubernetes, Kustomize
-* **CI/CD:** GitHub Actions, Makefile, golangci-lint, Trivy, kind
+* **CI/CD:** GitHub Actions, Makefile, golangci-lint, Trivy
 * **Monitoring:** Prometheus, Grafana
 * **OS:** Linux (Ubuntu/Debian), Bash
 
@@ -40,40 +37,28 @@
 
 ## 🚀 Проекты и опыт
 
+### 🔹 [CogniWeb Agent](https://github.com/loks1k192/CogniWeb_Agent)
+* **Описание:** Автономный браузерный агент на базе LLM, способный выполнять задачи на естественном языке.
+* **Архитектура:** Реализовал трехзвенный конвейер **Plan → Execute → Verify** с использованием системы подагентов (Planner, Executor, Verifier).
+* **Особенности:** Внедрил **Security Gateway** для подтверждения критических действий (оплаты, удаления), систему аудита (JSONL) и механизмы детекции зацикливаний.
+* **Стек:** Python 3.10+, Playwright, OpenRouter API, Pydantic v2, Asyncio, Tenacity.
+
+### 🔹 [Geobustards Messenger](https://github.com/loks1k192/geobustards-messenger)
+* **Событие:** Участие в хакатоне **Nuclear IT Hack 2026 (МИФИ)**, кейс от **Hex.Team**.
+* **Описание:** Децентрализованная система связи (mesh-сеть), работающая полностью без интернета и центральных серверов.
+* **Реализация:** Разработал с нуля за 30 часов асинхронный TCP-транспорт, flooding-маршрутизацию с дедупликацией и протокол передачи файлов чанками с проверкой SHA-256.
+* **Функционал:** Поддержка голосовых звонков (UDP, Jitter buffer), E2E-шифрование (Fernet/AES-128) и мониторинг RTT пиров в реальном времени.
+* **Стек:** Python, FastAPI, Asyncio, SQLite, React + Vite, WebRTC (signaling).
+
 ### 🔹 [Production-ready Go Backend API](https://github.com/loks1k192/production-ready-backend--API)
-
-* Создал production-ready REST API на Go с JWT-аутентификацией, метриками Prometheus и health checks
-* Реализовал чистую архитектуру (handlers / services / repository)
-* Подключил PostgreSQL (sqlx), Docker, CI/CD и базовую инфраструктуру
-* **Стек:** Go, PostgreSQL, SQLx, JWT, Prometheus, Docker, GitHub Actions
-
----
-
-### 🔹 [Task Management API](https://github.com/loks1k192/task_manager)
-
-* REST API для системы управления задачами
-* Реализована JWT-аутентификация и ролевая модель
-* Деплой через Docker Compose
-* **Стек:** FastAPI, PostgreSQL, SQLAlchemy, JWT, Docker.
-
----
-
-### 🔹 [Async Notification Service](https://github.com/loks1k192/notification_service)
-
-* Асинхронный сервис обработки уведомлений
-* Очереди RabbitMQ для масштабируемой обработки задач
-* Redis для кеширования статусов и оптимизации производительности
-* **Стек:** Python, FastAPI, RabbitMQ, Redis
-
----
+* Создал production-ready REST API на Go с JWT-аутентификацией, метриками Prometheus и health checks.
+* Реализовал чистую архитектуру (handlers / services / repository).
+* **Стек:** Go, PostgreSQL, SQLx, JWT, Prometheus, Docker, GitHub Actions.
 
 ### 🔹 [Distributed Event-Driven Analytics Engine](https://github.com/loks1k192/Distributed-Event-Driven-Analytics-Engine)
-
-* Event-driven система аналитики в реальном времени
-* Поток: Ingestor → Kafka → Workers → ClickHouse
-* Мониторинг и визуализация метрик в Grafana
+* Event-driven система аналитики: Ingestor → Kafka → Workers → ClickHouse.
+* Мониторинг и визуализация высоконагруженных потоков данных в Grafana.
 * **Стек:** Python, FastAPI, Kafka, ClickHouse, Redis.
-* **Результат:** Обработка высоконагруженных потоков данных с мониторингом в Grafana
 
 ---
 
@@ -102,9 +87,8 @@
 ---
 
 ### ⚡ Достижения и практика
-
-* **Алгоритмы:** Решаю **LeetCode 75** (Easy/Medium) — упор на сложность алгоритмов (Big O) и оптимизацию.
-* **Хакатоны:** Финалист **Авиахакатона 2025** («Системный взлёт»). Проектировал backend-архитектуру для высоконагруженного кейса в условиях сжатых сроков.
+* **Хакатоны:** * Участник **Nuclear IT Hack 2026(МИФИ)** (Система децентрализованной связи).
+    * Финалист **Авиахакатона 2025 от Т1** («Системный взлёт»). Проектировал backend-архитектуру для высоконагруженного кейса.
 
 ## 📫 Связь со мной
 
