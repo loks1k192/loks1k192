@@ -1,4 +1,4 @@
-# Привет, я Николай! 👋
+# Привет, я Николай!
 
 **Backend Developer** 📍 Москва
 
@@ -11,23 +11,23 @@
 
 ## 🛠 Стек технологий
 
-### 💻 Языки программирования
+### Языки программирования
 * **Go** — Standard Library, Gin, Chi, Sqlx, slog, zap, Concurrency, Performance optimization
 * **Python** — FastAPI, Django, Asyncio, Pytest, Pydantic v2, Playwright, HTTPX, Tenacity
 * **C/C++** — C++20, Алгоритмы и структуры данных, системное программирование
 
-### ⚙️ Backend & API
+### Backend & API
 * **Frameworks:** FastAPI, Django, Gin
 * **Tools:** Pydantic v2, SQLAlchemy, Alembic, JWT, (Swagger/ReDoc), structlog
 * **Architecture:** Clean Architecture, Event-Driven, Microservices, Mesh Networking
 * **AI & Automation:** LLM integration (OpenRouter), Browser Automation (Playwright), Autonomous Agents
 
-### 🗄 Базы данных & Брокеры
+### Базы данных & Брокеры
 * **SQL:** PostgreSQL, ClickHouse, SQLite (asyncpg, sqlx)
 * **NoSQL:** Redis, MongoDB
 * **Message Brokers:** RabbitMQ, Apache Kafka (aiokafka)
 
-### 🏗 DevOps & Мониторинг
+### DevOps & Мониторинг
 * **Containerization:** Docker, Docker Compose, Kubernetes, Kustomize
 * **CI/CD:** GitHub Actions, Makefile, golangci-lint, Trivy
 * **Monitoring:** Prometheus, Grafana
@@ -35,7 +35,7 @@
 
 ---
 
-## 🚀 Проекты и опыт
+## Проекты и опыт
 
 ### 🔹 [CogniWeb Agent](https://github.com/loks1k192/CogniWeb_Agent)
 * **Описание:** Автономный браузерный агент на базе LLM, способный выполнять задачи на естественном языке.
@@ -62,15 +62,15 @@
 
 ---
 
-## 🎓 Образование и развитие
+## Образование и развитие
 
-### 🏛️ Высшее образование
+### Высшее образование
 
 **МАИ, Прикладная математика и информатика** — *Бакалавриат*
 
 ---
 
-### 🏆 Профессиональная подготовка
+### Профессиональная подготовка
 
 **Яндекс Лицей** — *Веб-разработка на Go (Специализация)*
 
@@ -86,9 +86,9 @@
 
 ---
 
-## ⚡ Достижения и практика
+## Достижения и практика
 
-### 🏆 Хакатоны и соревнования
+### Хакатоны и соревнования
 
 * **Nuclear IT Hack 2026 (НИЯУ МИФИ)** | *Участник*
     * **Проект:** [Geobustards Messenger](https://github.com/loks1k192/geobustards-messenger)
@@ -101,7 +101,7 @@
 
 ---
 
-## 📫 Связь со мной
+## Связь со мной
 
 * **Telegram:** [@nknyazkov16](https://t.me/nknyazkov16)
 * **Email:** n.knyazkov16@gmail.com
