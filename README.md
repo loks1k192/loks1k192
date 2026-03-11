@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠 Стек технологий
+## Стек технологий
 
 ### Языки программирования
 * **Go** — Standard Library, Gin, Chi, Sqlx, slog, zap, Concurrency, Performance optimization
