@@ -115,13 +115,27 @@
     * что значительно повысило точность выдачи.
     * **Результат:** Прототип обрабатывает тысячи позиций номенклатуры, сопоставляя их с тендерами по семантическому смыслу, а не просто по ключевым словам.
 
-### LeetCode Solutions
-Автоматизированный архив решений алгоритмических задач.
-Репозиторий: [Neetcode](https://github.com/loks1k192/neetcode-submission)
+#### 🏆 [LeetCode Solutions](https://github.com/loks1k192/neetcode-submission)
+*Автоматизированный архив решений алгоритмических задач.*
+* **Статус:** Ежедневная практика алгоритмов и структур данных.
+* **Стек:** C++, Go, Python.
+* **Автоматизация:** Интеграция с NeetCode для синхронизации Accepted-решений.
 
-Статус: Ежедневная практика алгоритмов и структур данных.
-Стек: C++, Go, Python.
-Автоматизация: Интеграция через NeetCode для синхронизации Accepted-решений.
+### 🧩 Алгоритмическая подготовка
+
+<p align="left">
+  <a href="https://github.com/loks1k192/neetcode-submission">
+    <img src="https://img.shields.io/badge/NeetCode-Roadmap_Progress-00C853?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/LeetCode-Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/Stack-C%2B%2B%20%7C%20Go%20%7C%20Python-26A5E4?style=for-the-badge" />
+</p>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=loks1k192&repo=neetcode-submission&theme=dracula&bg_color=0d1117&hide_border=true&color=00C853)
+
+* **Платформа:** [NeetCode.io](https://neetcode.io/)
+* **Репозиторий с решениями:** [neetcode-submission](https://github.com/loks1k192/neetcode-submission) — *обновляется автоматически после сабмитов.*
+* **Фокус:** Blind 75 / NeetCode roadmap
 
 ---
 
