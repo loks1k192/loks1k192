@@ -80,11 +80,11 @@
 * **Стек:** `Go` • `PostgreSQL` • `Docker` • `Nginx` • `CI/CD`
 
 **Яндекс Практикум** — *Backend-разработчик (Python)*
-> 🎓 **Сертификат:** [Подтверждающий диплом (№ 2026-03027-547)](https://drive.google.com/file/d/12_CyFhs734DL4SruGY4wQmvduXFQvp2O/view?usp=drive_link)
 
 * **Фокус:** Построение отказоустойчивых систем, Django-экосистема и Production-ready API.
 * **Результат:** Проектирование сервисов с нуля, работа в команде и прохождение жестких код-ревью.
 * **Стек:** `Django` • `DRF` • `PostgreSQL` • `Docker` • `CI/CD`
+* **Сертификат:** 📜 [Диплом об окончании курса «Python-разработчик»](https://drive.google.com/file/d/12_CyFhs734DL4SruGY4wQmvduXFQvp2O/view?usp=drive_link)
 
 ---
 
