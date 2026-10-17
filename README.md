@@ -141,3 +141,4 @@
 * **Telegram:** [@nknyazkov16](https://t.me/nknyazkov16?utm_source=gemini)
 * **Email:** n.knyazkov16@gmail.com
 * **Hugging Face:** [loks1k](https://huggingface.co/loks1k?utm_source=gemini)
+* **Kaggle** [nikolayknyazkov](https://www.kaggle.com/nikolayknyazkov)
